@@ -1,0 +1,25 @@
+.address_data{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+
+.contact_first{
+	justify-content:center;
+	align-items:center;
+/*	border:2px solid red;
+*/	margin:5vh 0vh;
+}
+
+.contact_second{
+	/*border:1px solid red;*/
+	margin:5vh 0vh;
+
+
+}
+
+.contactrow{
+	margin:7vh 0vh;
+}
+

@@ -1,0 +1,151 @@
+.banners{
+	margin:10vh 0vh;
+	
+}
+.bannersection{
+    margin-top:30px;
+    /*border:1px solid white;
+*/}
+
+.each_bannersection{
+	margin-top:5vh;
+}
+
+.Introduction{
+
+	font-size:1.5rem;
+}
+
+.introcolumn{
+/*border:1px solid red;*/
+}
+
+.imagesection{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
+
+.photo{
+	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.eachbutton{
+	border-radius:5%;
+	padding:1vh 2vh;
+	
+   text-decoration:none;
+
+	box-shadow: rgba(0, 0, 0, 0.20) 0px 3px 6px, rgba(0, 0, 0, 0.30) 0px 3px 6px;
+
+
+
+
+}
+
+.firstbtn a{
+	text-decoration:none;
+	
+}
+
+
+.secondbtn a{
+text-decoration:none;
+
+}
+
+
+
+
+
+.paragraphs{
+font-size:1.2rem;
+}
+
+.iambaivab{
+	font-size:3.5rem;
+	float:center;
+
+
+}
+
+.icons{
+	
+
+	padding:0.6rem; 
+	border-radius:50%;  
+	margin:0.5rem;
+	
+	
+	font-size:1.3rem;
+	box-shadow: rgba(0, 0, 0, 0.36) 0px 3px 6px, rgba(0, 0, 0, 0.44) 0px 3px 6px;
+
+
+}
+
+.sociallinks,.buttons{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.allskills{
+	height:50px;
+	
+
+	overflow:hidden;
+
+
+
+
+}
+
+.firstbtn{
+margin:1rem;
+}
+
+.secondbtn{
+
+}
+
+@keyframes move{
+	25%{
+           transform: translateY(-50px);
+	}
+
+	50%{
+		transform: translateY(-100px);
+
+	}
+
+	75%{
+     transform: translateY(-150px);
+	}
+
+	100%{
+          transform: translateY(-200px);
+	}
+
+}
+
+.eachskills{
+	height:50px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	font-weight:bold;
+	font-size:2.3rem;
+		animation:move 10s ease-in-out infinite alternate;
+
+}
+
+
+
+
+
+
+

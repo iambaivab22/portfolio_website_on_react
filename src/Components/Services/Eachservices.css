@@ -1,0 +1,41 @@
+
+
+.service_name{
+margin:2vh 0vh;
+
+}
+
+
+.services_icon{
+   height:10vh;
+   width:10vh;
+   margin:2vh 0vh;
+
+}
+
+.btns{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+
+
+.iconimage{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+
+.githublinks{
+	padding:1vh 3vh;
+	margin:4vh 0vh;
+	font-size:1.5rem;
+	box-shadow:-3px -3px 5px #ffffff70,3px 3px 15px #00000070;
+}
+
+.githublinks a{
+	text-decoration:none;
+	font-weight:bold;
+	font-size:1.3rem;
+	color:black;
+}
